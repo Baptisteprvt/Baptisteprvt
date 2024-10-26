@@ -47,7 +47,7 @@ TODO : Présenter le projet
 
 ---
 
-## 🌱 Actuellement, j'apprends…
+## 🌱 Actuellement
 
 <!-- Mentionnez les nouvelles compétences ou technologies sur lesquelles vous vous concentrez actuellement -->
 Je suis actuellement en train d'apprendre à utiliser streamlit et ThreeJs pour renforcer mes compétences web.
