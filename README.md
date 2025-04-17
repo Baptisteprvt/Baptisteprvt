@@ -24,17 +24,20 @@ Je suis aujourd'hui étudiant en informatique avec une expertise en Santé. Mon 
 
 ## 📈 Statistiques GitHub
 
-[![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptisteprvt&layout=compact&theme=radical)](https://github.com/Baptisteprvt)
+<!-- [![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptisteprvt&layout=compact&theme=radical)](https://github.com/Baptisteprvt) -->
+
+[![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptisteprvt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
 ## 📂 Mes projets
 
 <!-- Mettez en avant certains de vos projets principaux avec un lien vers chaque repository -->
-### [Projet 1 - Projet]([https://github.com/Baptisteprvt](https://github.com/Baptisteprvt/R-alit-_Augment-e))
+### [Projet 1 - SkelGuessr]([https://github.com/Baptisteprvt](https://github.com/Baptisteprvt/R-alit-_Augment-e))
 Ce projet utilise **Three.js** et **Cannon.js** pour créer une scène 3D interactive permettant aux utilisateurs d'interagir avec un modèle de squelette en répondant à un QCM. Le modèle 3D inclut des animations et des effets physiques pour offrir une expérience d'apprentissage immersive.
 
-### [Projet 2 - Projet]([https://github.com/Baptisteprvt](https://github.com/Baptisteprvt/MICCAI))
+### [Projet 2 - MICCAI]([https://github.com/Baptisteprvt](https://github.com/Baptisteprvt/MICCAI))
 Ce projet a pour but de segmenter des images médicales de patients, en utilisant des modèles de deep learning, en particulier un réseau de neurones U-Net.
 
 ---
