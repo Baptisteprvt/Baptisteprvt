@@ -26,7 +26,7 @@ Je suis aujourd'hui étudiant en informatique avec une expertise en Santé. Mon 
 
 <!-- [![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptisteprvt&layout=compact&theme=radical)](https://github.com/Baptisteprvt) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptisteprvt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptisteprvt&layout=donut&theme=tokyonight&exclude_repo=MICCAI)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
