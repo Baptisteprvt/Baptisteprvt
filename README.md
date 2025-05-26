@@ -9,7 +9,7 @@ l'informatique jouera un rôle clé dans la médecine de demain.
 ## 🌟 À propos de moi
 
 <!-- Résumé de votre parcours, compétences clés et centres d'intérêt professionnels -->
-Je suis aujourd'hui étudiant en informatique avec une expertise en Santé. Mon parcours m'a permis de travailler sur des projets variés, allant d'une classification d'image via deep learning, à un projet de NLP en partenariat avec l'APHP. J'ai également suivi des cours de bio-informatique, une introduction au développement Three.js et MICCAI, un projet de segmentation d'image IRM de cerveau. Actuellement, je suis à la recherche d'un stage de fin d'études dans le domaine du numérique dans la santé.
+Je suis aujourd'hui étudiant en informatique avec une expertise en Santé. Mon parcours m'a permis de travailler sur des projets variés, allant d'une classification d'image via deep learning, à un projet de NLP en partenariat avec l'APHP. J'ai également suivi des cours de bio-informatique, une introduction au développement Three.js et MICCAI, un projet de segmentation d'image IRM de cerveau. Je travaille actuellement chez CNR en tant que développeur pour un projet de reconnaissance automatique de poissons par IA.
 
 ---
 
