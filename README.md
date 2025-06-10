@@ -9,7 +9,7 @@ l'informatique jouera un rôle clé dans la médecine de demain.
 ## 🌟 À propos de moi
 
 <!-- Résumé de votre parcours, compétences clés et centres d'intérêt professionnels -->
-Je suis aujourd'hui étudiant en informatique avec une expertise en Santé. Mon parcours m'a permis de travailler sur des projets variés, allant d'une classification d'image via deep learning, à un projet de NLP en partenariat avec l'APHP. J'ai également suivi des cours de bio-informatique, une introduction au développement Three.js et MICCAI, un projet de segmentation d'image IRM de cerveau. Je travaille actuellement chez CNR en tant que développeur pour un projet de reconnaissance automatique de poissons par IA.
+Je suis aujourd'hui étudiant en informatique avec une expertise en Santé. Mon parcours m'a permis de travailler sur des projets variés, allant d'une classification d'image via deep learning, à un projet de NLP en partenariat avec l'APHP. J'ai également suivi des cours de bio-informatique, une introduction au développement Three.js et MICCAI, un projet de segmentation d'image IRM de cerveau. Mon attrait particulier pour toutes les sciences du vivant m'ont ammené à travailler chez CNR en tant que stagiaire développeur pour un projet de reconnaissance automatique de poissons par IA.
 
 ---
 
@@ -17,7 +17,7 @@ Je suis aujourd'hui étudiant en informatique avec une expertise en Santé. Mon 
 
 <!-- Listez vos compétences en les catégorisant par technologies, langues, outils, etc. -->
 - **Langages** : Python, JavaScript, SQL, C++, Java, C, NoSQL
-- **Frameworks & Bibliothèques** : Three.js, Node.js, TensorFlow, Pandas 
+- **Frameworks & Bibliothèques** : Three.js, Node.js, TensorFlow, Pandas, Ultralytics, Scikit-learn et bien d'autres
 - **Outils** : Git, Docker, VS Code
 
 ---
@@ -40,12 +40,15 @@ Ce projet utilise **Three.js** et **Cannon.js** pour créer une scène 3D intera
 ### [Projet 2 - MICCAI]([https://github.com/Baptisteprvt](https://github.com/Baptisteprvt/MICCAI))
 Ce projet a pour but de segmenter des images médicales de patients, en utilisant des modèles de deep learning, en particulier un réseau de neurones U-Net.
 
+### [Projet 3 - ClassiFish]([https://github.com/Baptisteprvt](https://github.com/Baptisteprvt/ClassiFish))
+Ce projet est une experimentation de sciences participatives pour aider à la labelisation d'images de poissons. Le frontend est hébergé sur streamlit et le backend sur render. Le site n'est pas toujours en ligne et peut être long à démarrer de par la version gratuite des hebergeurs mais il est accessible au lien suivant : [Classifish](https://classifish.streamlit.app/).
+
 ---
 
 ## 📫 Me contacter
 
 <!-- Détaillez les meilleurs moyens pour vous contacter : email, LinkedIn, Twitter, etc. -->
-- **Email** : baptiste.prevot@epita.fr
+- **Email** : baptiste.prevot73@outlook.fr
 - **LinkedIn** : [Baptiste PREVOT](https://www.linkedin.com/in/baptiste-prevot73/)
 
 ---
@@ -53,7 +56,8 @@ Ce projet a pour but de segmenter des images médicales de patients, en utilisan
 ## 🌱 Actuellement
 
 <!-- Mentionnez les nouvelles compétences ou technologies sur lesquelles vous vous concentrez actuellement -->
-Je suis actuellement en train d'apprendre à utiliser streamlit et ThreeJs pour renforcer mes compétences web.
+Je suis actuellement en train de d'entraîner une IA capable de reconnaitre la population piscicole du bassin versant du Rhône.
+En parallèle, j'ai pu développer un prototype de sciences participatives combinant les technologies de streamlit et mongoDB.
 
 ---
 
