@@ -45,7 +45,10 @@ Ce projet est une experimentation de sciences participatives pour aider à la la
 
 ### [Projet 4 - Stats Strava]([https://github.com/Baptisteprvt](https://github.com/Baptisteprvt/Strava_web))
 Ce projet est une réponse à un besoin personnel, pratiquant régulièrement la course à pieds et le trail, j'ai développé un site d'analyse de mes données Strava, en utilisant l'API de celui ci. L'utilisation étant restreinte, vous ne pourrez pas vous connecter avec vos identifiants. Voici cependant le lien (site hébergé sur Streamlit) : [StravaStats](https://stravaweb.streamlit.app/) ainsi que quelques screenshots :
+Plusieurs graphiques sont disponibles : Distance cumulée, Rythme cardiaque moyen, Dénivelé par sorties, ...
 <img width="1885" height="797" alt="image" src="https://github.com/user-attachments/assets/6694f07b-92ad-4a95-a1bc-a8bda0638e80" />
+
+On peut également ajouter un partenaire de course avec qui l'on veut se comparer. Les graphiques sont adaptés en conséquence.
 <img width="1899" height="913" alt="image" src="https://github.com/user-attachments/assets/57c18cf3-ddef-4e36-bd92-eb9e834178b9" />
 
 ---
