@@ -26,8 +26,7 @@ Je suis nouvellement diplômé ingénieur à l'EPITA (École pour l'informatique
 
 <!-- [![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptisteprvt&layout=compact&theme=radical)](https://github.com/Baptisteprvt) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptisteprvt&layout=donut&theme=tokyonight&exclude_repo=MICCAI)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
