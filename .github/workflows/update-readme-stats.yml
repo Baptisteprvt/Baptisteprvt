@@ -1,0 +1,21 @@
+name: Update README cards
+on:
+  schedule:
+    - cron: "0 0 * * *" # S'exécute tous les jours à minuit
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: |
+            username=${{ github.repository_owner }}
+            layout=compact
+          token: ${{ secrets.GITHUB_TOKEN }}
