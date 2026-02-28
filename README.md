@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Baptiste PREVOT !
+# Bonjour, je suis Baptiste PREVOT !
 
 <!-- Présentation rapide et bienvenue -->
 Bienvenue sur mon profil GitHub ! Passionné par l'innovation technologique au service du vivant, je suis convaincu que
@@ -6,14 +6,14 @@ l'informatique jouera un rôle clé dans la science de demain.
 
 ---
 
-## 🌟 À propos de moi
+## À propos de moi
 
 <!-- Résumé de votre parcours, compétences clés et centres d'intérêt professionnels -->
 Je suis nouvellement diplômé ingénieur à l'EPITA (École pour l'informatique et les techniques avancées) avec une expertise en Santé. Mon parcours m'a permis de travailler sur des projets variés, allant d'une classification d'image via deep learning, à un projet de NLP en partenariat avec l'APHP. J'ai également suivi des cours de bio-informatique, une introduction au développement Three.js, et MICCAI, un projet de segmentation d'image IRM de cerveau. Mon attrait particulier pour toutes les sciences du vivant m'ont ammené à travailler chez CNR en tant que stagiaire développeur pour un projet de reconnaissance automatique de poissons par IA.
 
 ---
 
-## 🔧 Compétences techniques
+## Compétences techniques
 
 <!-- Listez vos compétences en les catégorisant par technologies, langues, outils, etc. -->
 - **Langages** : Python, JavaScript, SQL, C++, Java, C, NoSQL
@@ -22,7 +22,7 @@ Je suis nouvellement diplômé ingénieur à l'EPITA (École pour l'informatique
 
 ---
 
-## 📈 Statistiques GitHub
+## Statistiques GitHub
 
 <!-- [![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Baptisteprvt&layout=compact&theme=radical)](https://github.com/Baptisteprvt) -->
 
@@ -30,7 +30,7 @@ Je suis nouvellement diplômé ingénieur à l'EPITA (École pour l'informatique
 
 ---
 
-## 📂 Mes projets
+## Mes projets
 
 <!-- Mettez en avant certains de vos projets principaux avec un lien vers chaque repository -->
 ### [Projet 1 - SkelGuessr]([https://github.com/Baptisteprvt](https://github.com/Baptisteprvt/R-alit-_Augment-e))
@@ -52,7 +52,7 @@ On peut également ajouter un partenaire de course avec qui l'on veut se compare
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 <!-- Détaillez les meilleurs moyens pour vous contacter : email, LinkedIn, Twitter, etc. -->
 - **Email** : baptiste.prevot73@outlook.fr
@@ -60,7 +60,7 @@ On peut également ajouter un partenaire de course avec qui l'on veut se compare
 
 ---
 
-## 🌱 Actuellement
+## Actuellement
 
 <!-- Mentionnez les nouvelles compétences ou technologies sur lesquelles vous vous concentrez actuellement -->
 Je suis actuellement à la recherche d'un emploi sur Toulouse ou en Rhône Alpes.
